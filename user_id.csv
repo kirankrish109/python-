@@ -1,0 +1,21 @@
+user_id,user_name,department,permission
+P0001,kiran,visualization,office machine access
+P0002,arya,analytics,office machine access
+P0003,sruthi,QA,office machine access
+P0004,minhaj,QA,office machine access
+P0005,sajith,system_admin,"office machine access, remote access"
+P0006,ratheesh,system_admin,"office machine access, remote access, secure room access, printer access"
+P0007,kiran,system_engineer,"office machine access, remote access, secure room access, printer access"
+P0008,aiswarya,systems_support,"office machine access, secure room access"
+P0014,arun,finance,office machine access
+P0015,manu,druid_expert,"office machine access, remote access, secure room access, printer access"
+P0016,jithin,data_engineering,"office machine access, remote access, secure room access, printer access"
+P0017,lenin,data_engineering,"office machine access, remote access, secure room access, printer access"
+P0018,shaleena,hr,office machine access
+P0019,chitra,hr,office machine access
+P0020,donny,data_engineering,"office machine access, secure room access"
+P0009,austin,data_engineering,"office machine access, secure room access"
+P0010,adil,data_scientist,"office machine access, secure room access"
+P0011,gia,data_scientist,office machine access
+P0012,rakesh,data_engineering,"office machine access, remote access, secure room access, printer access"
+P0013,athul,data_analyst,"office machine access, remote access, secure room access, printer access"
